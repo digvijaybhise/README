@@ -30,7 +30,7 @@ npm run test
 
 ## Author
 ---
-### 👤 Franck Abgrall
+### 👤 Digvijay Bhise
 * Twitter : [@dmbhise01]() 
 * Github : [@digvijaybhise]()
 
